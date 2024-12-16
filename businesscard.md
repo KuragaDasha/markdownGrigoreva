@@ -12,3 +12,5 @@
 |-----------|-----------|
 |Почта|ivanivan@mail.ru|
 |Телефон|89898989898|
+
+[!image](https://img.freepik.com/free-photo/portrait-young-businessman_144627-21852.jpg)
